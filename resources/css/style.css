@@ -409,6 +409,9 @@ footer .content {
 }
 
 footer .copyright {
+  color: white;
+  font-size: 0.75rem;
+  font-family: "Roboto-Regular";
   flex-grow: 1;
 }
 
